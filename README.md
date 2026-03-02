@@ -1,5 +1,6 @@
 - 👋 Olá, eu sou o Estudante, Renan!
 - 👨‍🎓 Sou estudante de DESENVOLVIMENTO DE SISTEMAS do Colégio Estadual Presidente Kennedy!
+- 📖 Meu foco sera nos estudos que teremos das linguagens de programação abaixo!
 
 <div align= "center">
   
